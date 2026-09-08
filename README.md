@@ -17,3 +17,5 @@ SHIP MOVEMENT : The code was written completely by me, took around 3 days to com
 3D MODELS: Meshes and materials in some part were made in godot itself, others were imported from blender, also made completely by me.
 
 SPACE BACKGROUND : I had to learn to use spacescape.exe - a program that draws night sky/space textures for the custom background. Again, completely original to me.
+
+MUSIC : The music is also original, by me, made in a DAW program called LMMS using custom made synth sounds also original to me.
